@@ -1,0 +1,12 @@
+.title {
+    color: red;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.text {
+    background-color: orange;
+    font-size: 50px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
